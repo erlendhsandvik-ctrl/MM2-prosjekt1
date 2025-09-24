@@ -1,0 +1,60 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{preamble}
+
+% ------ Metadata ------
+\newcommand{\institution}{FHS/Cyberingeniørskolen}
+\newcommand{\laboratory}{Matematiske metoder 2}
+\newcommand{\coursecode}{ING2501 \; Matematiske Metoder 2}
+\newcommand{\assignmentno}{H0X}
+\newcommand{\assignmenttype}{PROSJEKTOPPGAVE}
+\newcommand{\assignmenttitle}{Varmeligning}
+\newcommand{\studentname}{Erlend Haugstad Sandvik}
+\newcommand{\partnername}{Adam Sitje}
+\newcommand{\memberthree}{Ingrid Selvaag Gohn}
+\newcommand{\memberfour}{Lukas Røine}
+\newcommand{\class}{VING 78}
+\newcommand{\submissiondate}{\today}
+
+\begin{document}
+
+\input{frontpage}
+
+\pagenumbering{Roman}
+\setcounter{page}{1}
+
+\input{sections/sammendrag}
+\clearpage
+
+\tableofcontents
+\clearpage
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{sections/innledning}
+\clearpage
+
+\input{sections/instrumenter}
+\clearpage
+
+\input{sections/teori}
+\clearpage
+
+\input{sections/gjennomforing}
+\clearpage
+
+\input{sections/diskusjon}
+\clearpage
+
+\input{sections/konklusjon}
+\clearpage
+
+\printbibliography[heading=bibintoc,title={Referanser}]
+\clearpage
+
+\section*{Vedlegg}
+\addcontentsline{toc}{section}{Vedlegg}
+\input{sections/vedlegg}
+\clearpage
+
+\end{document}
