@@ -3,6 +3,7 @@
 \contentsline {section}{\numberline {2}Teori}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Bølgeligningen}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Fourierrekker}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Grunnleggende konsepter}{2}{subsubsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.3}Løsningsmetoder}{2}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Metode og gjennomføring}{3}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Implementasjon}{3}{subsection.3.1}%
