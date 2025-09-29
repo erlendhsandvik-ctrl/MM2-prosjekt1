@@ -368,6 +368,8 @@ INPUT .\sections\instrumenter.tex
 INPUT .\sections\instrumenter.tex
 INPUT .\sections\instrumenter.tex
 INPUT sections\instrumenter.tex
+INPUT C:\Users\erlen\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\erlen\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT .\sections\teori.tex
 INPUT .\sections\teori.tex
 INPUT .\sections\teori.tex
