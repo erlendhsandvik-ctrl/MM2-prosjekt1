@@ -1,0 +1,24 @@
+# LaTeX intermediate files
+main.aux
+main.bbl
+main.blg
+main.idx
+main.ind
+main.lof
+main.lot
+main.out
+main.toc
+main.acn
+main.acr
+main.alg
+main.glg
+main.glo
+main.gls
+main.ist
+main.fls
+main.log
+main.fdb_latexmk
+main.synctex.gz
+
+# Output files
+main.pdf
