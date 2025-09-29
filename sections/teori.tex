@@ -1,17 +1,47 @@
 \section{Teori}
 \subsection{Bølgeligningen}
-Utledning av bølgeligningen
+
+    Bølgeligningen er en partielldifferensialligning som beskriver hvordan bølger, som lyd, lys eller vannbølger, forplanter seg gjennom et medium. Den én-dimensjonale bølgeligningen har formen
+    \[
+    \frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}
+    \]
+    hvor $u(x,t)$ beskriver bølgens utslag ved posisjon $x$ og tid $t$, og $c$ er bølgefarten.
+
+    Betydningen av bølgeligningen er at den gir et matematisk rammeverk for å forstå og forutsi hvordan bølger beveger seg og endrer seg over tid. Løsninger til bølgeligningen brukes i mange fagfelt, inkludert fysikk, ingeniørfag og akustikk.
+ 
 
 \subsection{Fourierrekker}
-\subsubsection{Grunnleggende konsepter}
-Periodiske funksjoner
+    Fourierrekker er en metode for å representere periodiske funksjoner som en sum av sinus- og cosinusfunksjoner. Dette er spesielt nyttig i løsningen av partielldifferensialligninger som bølgeligningen, hvor komplekse bølgeformer kan brytes ned i enklere harmoniske komponenter.    
+    
+    Grunnleggende konsepter inkluderer:
 
-Ortogonalitet og basisfunksjoner
+    Periodiske funksjoner
 
-Koeffisientene i en Fourierrekke
+    Ortogonalitet og basisfunksjoner
+
+    Koeffisientene i en Fourierrekke
 \subsection{Løsningsmetoder}
-Separasjonsmetoden
 
-Fouriermetoden
+\subsubsection{Separasjonsmetoden}
 
-Eventuelt D’Alemberts løsning
+    Separasjonsmetoden er en teknikk for å løse partielle differensialligninger (PDE-er) som er lineære og homogene. Ideen er å anta at løsningen kan skrives som et produkt av funksjoner der hver funksjon bare avhenger av én variabel:
+    \[
+    u(x,t) = X(x)\,T(t).
+    \]
+
+    Ved å sette dette inn i PDE-en kan man ofte dele opp ligningen slik at den romlige delen og den tidsavhengige delen blir atskilt. Dette gir en konstant, kalt \emph{separasjonskonstanten}:
+    \[
+    \frac{T'(t)}{T(t)} = \frac{X''(x)}{X(x)} = -\lambda.
+    \]
+
+    Dermed reduseres PDE-en til to ordinære differensialligninger , en for $X(x)$ og en for $T(t)$. Randbetingelser brukes til å bestemme mulige verdier av $\lambda$, som gir en mengde \emph{egenfunksjoner} $X(x)$. Den generelle løsningen blir en superposisjon av slike separable løsninger:
+    \[
+    u(x,t) = \sum_{n=1}^\infty c_n X_n(x) T_n(t).
+    \]
+
+    Denne metoden er spesielt nyttig i kombinasjon med Fourier-rekker, siden egenfunksjonene ofte er sinus- og cosinusfunksjoner som danner en ortogonal basis.
+
+
+    Fouriermetoden
+
+    Eventuelt D’Alemberts løsning
