@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1758744014.69648 "main.bcf" "main.bbl" "main" 1759142696.14049 0
-  "main.bcf" 1759142695 106950 f3a7a7e03262162e493e5be24e808021 "pdflatex"
+["biber main"] 1758744014.69648 "main.bcf" "main.bbl" "main" 1759143371.87439 0
+  "main.bcf" 1759143371 106950 f3a7a7e03262162e493e5be24e808021 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1759142693.28955 "c:/Users/erlen/OneDrive/Dokumenter/MM2-prosjekt1/main.tex" "main.pdf" "main" 1759142696.14143 0
+["pdflatex"] 1759143369.01117 "c:/Users/erlen/OneDrive/Dokumenter/MM2-prosjekt1/main.tex" "main.pdf" "main" 1759143371.87532 0
   "C:/Users/erlen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758741843 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/erlen/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1758741743 24225046 de7d3c88a1f6e98a66308fce9c547e3a ""
   "C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -161,20 +161,20 @@
   "Media/cisk.png" 1758742454 133758 cc55e7dd7973232fc5234bdb8f1b9d71 ""
   "c:/Users/erlen/OneDrive/Dokumenter/MM2-prosjekt1/main.tex" 1759131601 1222 2624886ffcaaae5242f60b08badf00c5 ""
   "frontpage.tex" 1758742570 1813 19fb692149d4d78b3b5a5ce9ad2a3f2d ""
-  "main.aux" 1759142695 1352 42d6233dceae52ea22ffb22b07577220 "pdflatex"
+  "main.aux" 1759143371 1723 4985654cf8d5582d2d6b6d1c3d1209a5 "pdflatex"
   "main.bbl" 1758744017 486 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.out" 1759142695 932 a2ea3bbdcbcb074a614839e30602a340 "pdflatex"
-  "main.run.xml" 1759142695 2431 2e90d394f92643abe7b670697d323e6f "pdflatex"
+  "main.out" 1759143371 1363 449399acb2bd5387fd364e5524c2b2b8 "pdflatex"
+  "main.run.xml" 1759143371 2431 2e90d394f92643abe7b670697d323e6f "pdflatex"
   "main.tex" 1759131601 1222 2624886ffcaaae5242f60b08badf00c5 ""
-  "main.toc" 1759142695 640 4db044066fb38570ec518daba350e062 "pdflatex"
+  "main.toc" 1759143371 888 4ee703c16158cdefb4b31cb0a865cf27 "pdflatex"
   "preamble.sty" 1758742570 1350 621f4718b289ad9a924fd12017337f62 ""
   "sections/diskusjon.tex" 1759131901 26 81c5d466c9876b5219e515c9b4cff5b7 ""
   "sections/gjennomforing.tex" 1759131918 29 5e305c2412c23372db16ea714597609f ""
-  "sections/innledning.tex" 1759131933 20 f834723e7aeb559a60d1a88c57395f82 ""
-  "sections/instrumenter.tex" 1759142691 77 70f3b1eb27ec980749736b75d7695814 ""
+  "sections/innledning.tex" 1759143156 86 4077f3feb1fdfc80b3f155c6c44e1c52 ""
+  "sections/instrumenter.tex" 1759143238 309 dcf23bc8c6d3e01f8609cf76ec33643c ""
   "sections/konklusjon.tex" 1759131966 27 e2cb61426f37892b1d02221da917115b ""
   "sections/sammendrag.tex" 1759131982 21 5af8ed726ffca170d2dc484bc005ae4e ""
-  "sections/teori.tex" 1759142650 43 16103af18a08539754c1127cf9550ef8 ""
+  "sections/teori.tex" 1759143367 210 7504374b142169555b54a32cc72809b4 ""
   "sections/vedlegg.tex" 1758742454 6 349d1b176e5fec9cc9122f8dbd2cc763 ""
   (generated)
   "main.aux"
