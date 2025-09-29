@@ -9,6 +9,55 @@
 
     Betydningen av bølgeligningen er at den gir et matematisk rammeverk for å forstå og forutsi hvordan bølger beveger seg og endrer seg over tid. Løsninger til bølgeligningen brukes i mange fagfelt, inkludert fysikk, ingeniørfag og akustikk.
  
+    \subsubsection{Utledning av bølgeligningen}
+
+        FLTTE TIL METODE?  Avsnittet er 11.2 i bølgeligning pdf fil
+
+        Vi betrakter en elastisk streng av lengde $L$, som er spent fast i begge ender. Strengen
+        har konstant massetetthet $\rho$ og utsettes for en konstant spenning $T$. 
+        Vi antar små utslag i et vertikalt plan, slik at helninger og forskyvninger
+        kan tilnærmes som små. 
+
+        La $u(x,t)$ beskrive den vertikale forskyvningen i punktet $x$ til tid $t$.
+        Vi ser på et lite stykke av strengen mellom $x$ og $x+\Delta x$. I endepunktene virker
+        tensjonskreftene $T_1$ og $T_2$ langs tangentene til strengen. De horisontale
+        komponentene kansellerer, slik at vi kun trenger å se på de vertikale komponentene.
+        Summen av de vertikale kreftene er
+        \[
+        F \approx T \sin\beta - T \sin\alpha,
+        \]
+        der $\alpha$ og $\beta$ er vinklene til strengen ved $x$ og $x+\Delta x$.
+
+        For små vinkler gjelder $\tan\theta \approx \sin\theta \approx \tfrac{\partial u}{\partial x}$.
+        Dermed kan kraften skrives som
+        \[
+        F \approx T\left( \frac{\partial u}{\partial x}(x+\Delta x,t) -
+                        \frac{\partial u}{\partial x}(x,t)\right).
+        \]
+
+        Utvikler vi dette videre får vi
+        \[
+        F \approx T \frac{\partial^2 u}{\partial x^2}(x,t)\,\Delta x.
+        \]
+
+        Ifølge Newtons 2.\ lov må denne kraften være lik massen av elementet
+        $\rho \Delta x$ multiplisert med akselerasjonen:
+        \[
+        \rho \Delta x \, \frac{\partial^2 u}{\partial t^2}(x,t)
+        = T \frac{\partial^2 u}{\partial x^2}(x,t)\,\Delta x.
+        \]
+
+        Etter forkorting av $\Delta x$ får vi den klassiske bølgeligningen
+        \[
+        \frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2},
+        \]
+        der
+        \[
+        c = \sqrt{\frac{T}{\rho}}
+        \]
+        er bølgefarten, bestemt av forholdet mellom spenningen $T$ og massetettheten $\rho$.
+
+        Denne ligningen beskriver små vibrasjoner i en streng med faste endepunkter.
 
 \subsection{Fourierrekker}
     Fourierrekker er en metode for å representere periodiske funksjoner som en sum av sinus- og cosinusfunksjoner. Dette er spesielt nyttig i løsningen av partielldifferensialligninger som bølgeligningen, hvor komplekse bølgeformer kan brytes ned i enklere harmoniske komponenter.    

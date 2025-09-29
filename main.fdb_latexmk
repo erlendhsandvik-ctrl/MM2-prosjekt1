@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1759154556.94069 "main.bcf" "main.bbl" "main" 1759156125.47486 0
-  "main.bcf" 1759156125 106950 f3a7a7e03262162e493e5be24e808021 "pdflatex"
+["biber main"] 1759154556.94069 "main.bcf" "main.bbl" "main" 1759169008.20324 0
+  "main.bcf" 1759169007 106950 f3a7a7e03262162e493e5be24e808021 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1759156122.53497 "c:/Users/erlen/OneDrive/Dokumenter/MM2-prosjekt1/main.tex" "main.pdf" "main" 1759156125.4759 0
+["pdflatex"] 1759169001.62848 "c:/Users/erlen/OneDrive/Dokumenter/MM2-prosjekt1/main.tex" "main.pdf" "main" 1759169008.20591 0
   "C:/Users/erlen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758741843 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/erlen/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1758741743 24225046 de7d3c88a1f6e98a66308fce9c547e3a ""
   "C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -173,16 +173,16 @@
   "Media/cisk.png" 1758742454 133758 cc55e7dd7973232fc5234bdb8f1b9d71 ""
   "c:/Users/erlen/OneDrive/Dokumenter/MM2-prosjekt1/main.tex" 1759154584 1260 57d133e380d64146d582779e5e96cd87 ""
   "frontpage.tex" 1758742570 1813 19fb692149d4d78b3b5a5ce9ad2a3f2d ""
-  "main.aux" 1759156125 1858 55160e61ab1a22a6546294501e130b7c "pdflatex"
+  "main.aux" 1759169007 2003 4885a1baba05475477de2d7018a131ee "pdflatex"
   "main.bbl" 1759154569 486 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.out" 1759156125 1521 afcc1ee4d8ae3b51f2f8ad5252da7f53 "pdflatex"
-  "main.run.xml" 1759156125 2431 2e90d394f92643abe7b670697d323e6f "pdflatex"
+  "main.out" 1759169007 1733 6ab1d448331ed3934a7228ba525a2a25 "pdflatex"
+  "main.run.xml" 1759169007 2431 2e90d394f92643abe7b670697d323e6f "pdflatex"
   "main.tex" 1759154584 1260 57d133e380d64146d582779e5e96cd87 ""
-  "main.toc" 1759156125 982 dad078b3e885c9db4c5be923dfce6bba "pdflatex"
+  "main.toc" 1759169007 1086 3d5799b41eb0493b0689c7ff336b11b0 "pdflatex"
   "preamble.sty" 1759143532 1405 14095d3cea9a0b42ece918bc3b6f018d ""
   "sections/Metode og gjennomdføring.tex" 1759143367 210 7504374b142169555b54a32cc72809b4 ""
   "sections/Resultater.tex" 1759154299 127 6c94d5af3cc96c6214e1527f2907de88 ""
-  "sections/Teori.tex" 1759156121 2391 ef5a5f0b2c4f1e6ee5328a3498a45a68 ""
+  "sections/Teori.tex" 1759168999 4572 a6ad0bcee57f47253f970117d5173481 ""
   "sections/diskusjon.tex" 1759154285 136 7c0f79f7504bf00c2daee22dbf0aac1e ""
   "sections/innledning.tex" 1759154210 87 9c32a5dc57c4c9b2b866e9e95f96842f ""
   "sections/konklusjon.tex" 1759154421 94 5767e5354d87447c3fd91d1271256b52 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.24)  29 SEP 2025 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.24)  29 SEP 2025 19:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -924,7 +924,7 @@ Package hyperref Info: Link coloring ON on input line 18.
 \openout4 = `main.out'.
 
  (frontpage.tex
-<Media/cisk.png, id=54, 1204.5pt x 2115.905pt>
+<Media/cisk.png, id=58, 1204.5pt x 2115.905pt>
 File: Media/cisk.png Graphic file (type png)
 <use Media/cisk.png>
 Package pdftex.def Info: Media/cisk.png  used on input line 4.
@@ -981,19 +981,19 @@ l.35 \clearpage
 
 ] (sections/Teori.tex [2
 
-{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]) [3{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] (sections/Metode og gjennomdføring.tex) [4
+{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [3]) [4] (sections/Metode og gjennomdføring.tex) [5
 
-] (sections/Resultater.tex) [5
+] (sections/Resultater.tex) [6
 
-] (sections/diskusjon.tex) [6
+] (sections/diskusjon.tex) [7
 
-] (sections/konklusjon.tex) [7
+] (sections/konklusjon.tex) [8
 
 ]
 
 LaTeX Warning: Empty bibliography on input line 52.
 
-(sections/vedlegg.tex) [8
+(sections/vedlegg.tex) [9
 
 
 ] (main.aux)
@@ -1002,23 +1002,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AFCC1EE4D8AE3B51F2F8AD5252DA7F53;1521.
+(rerunfilecheck)             Checksum: 6AB1D448331ED3934A7228BA525A2A25;1733.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28044 strings out of 474486
- 537705 string characters out of 5743755
- 1933542 words of memory out of 5000000
- 49834 multiletter control sequences out of 15000+600000
- 635420 words of font info for 128 fonts, out of 8000000 for 9000
+ 28055 strings out of 474486
+ 537839 string characters out of 5743755
+ 1934542 words of memory out of 5000000
+ 49835 multiletter control sequences out of 15000+600000
+ 635780 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,8n,95p,1050b,1729s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/erlen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (11 pages, 281461 bytes).
+Output written on main.pdf (12 pages, 291352 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 44654 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 44662 words of extra memory for PDF output out of 51595 (max. 10000000)
 
